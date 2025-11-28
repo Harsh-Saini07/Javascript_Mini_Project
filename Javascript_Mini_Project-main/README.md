@@ -16,5 +16,5 @@ Gameplay:
 
     5.Losing Condition: If the player clicks the wrong button or enters the wrong sequence, they lose, and the game ends , display score and restarts automatically.
 
-# Created By Ritik Sharma(Delta Student).
+# Created By Harsh Saini.
 
